@@ -18,7 +18,15 @@ Asle's Workroom의 「AI 영상 모델 8개, 같은 프롬프트로 싹 다 비�
 
 ## 시작 프레임
 
-시작 이미지는 나중에 [frames/](frames/)에 추가할 예정이에요. 지금은 포함되어 있지 않아요. 세 프롬프트 모두 시작 이미지의 인물·옷·위치를 전제로 하므로, 텍스트만 붙이면 영상과 같은 조건을 재현할 수는 없어요.
+영상에 쓴 시작 이미지는 [frames/](frames/)에 있어요. 프롬프트와 파일 이름이 같아요(1920×1080 JPG).
+
+| 장면 | 시작 이미지 |
+|---|---|
+| 액션 | [01_action_1v6_alley.jpg](frames/01_action_1v6_alley.jpg) |
+| 드라마 | [02_drama_breakup_closeup.jpg](frames/02_drama_breakup_closeup.jpg) |
+| 애니 | [03_anime_rooftop_parkour.jpg](frames/03_anime_rooftop_parkour.jpg) |
+
+세 프롬프트 모두 시작 이미지의 인물·옷·위치를 전제로 해서, 이미지 없이 텍스트만 넣으면 결과가 많이 달라져요.
 
 다른 이미지를 쓰면 그 이미지에 맞게 인물 구분과 동선을 바꾸면 좋아요. 애니 장면은 시작 이미지도 같은 2D 애니 화풍으로 준비하면 좋아요.
 
@@ -26,4 +34,4 @@ Asle's Workroom의 「AI 영상 모델 8개, 같은 프롬프트로 싹 다 비�
 
 These are unchanged final prompts from the comparison video. Shared setup: 16:9, 1080p target, audio on, image-to-video using a start frame; action 8s, drama and anime 10s. Where no audio toggle exists, use native audio. Resolution availability varies by model/variant; H3 Standard is listed separately at 2K in the price table.
 
-Start frames will be added to [frames/](frames/) later and are currently absent. Text alone does not reproduce the comparison conditions. Match wardrobe, positions and route to your own image; use an already-drawn anime image for the anime scene.
+The start frames used in the video are in [frames/](frames/), named like their prompts (1920×1080 JPG). Text alone does not reproduce the comparison conditions. Match wardrobe, positions and route to your own image; use an already-drawn anime image for the anime scene.

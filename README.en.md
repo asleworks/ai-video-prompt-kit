@@ -91,7 +91,7 @@ The button snapshot can differ from older blog examples. Higgsfield's [changelog
 - [Breakup close-up](prompts/02_drama_breakup_closeup.txt): restrained facial changes, exact Korean speech and lip-sync.
 - [Anime rooftop parkour](prompts/03_anime_rooftop_parkour.txt): drawn-style continuity, obstacle transitions and landings.
 
-[Settings and frame notes](prompts/README.md): 16:9, 1080p target, audio on, start-frame I2V; 8s action, 10s drama/anime. Available resolution varies by variant. Start frames will be added later; they are not included yet, so the text alone cannot reproduce the comparison conditions. The original prompts are denser than the beginner generator examples.
+[Settings and frame notes](prompts/README.md): 16:9, 1080p target, audio on, start-frame I2V; 8s action, 10s drama/anime. Available resolution varies by variant. The start frames used in the video are in [prompts/frames/](prompts/frames/); use each with its prompt to reproduce the comparison conditions. The original prompts are denser than the beginner generator examples.
 
 ## Using the generator
 
