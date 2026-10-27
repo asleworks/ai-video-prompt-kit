@@ -1,5 +1,6 @@
-<!-- VIDEO_LINK -->
 # AI 영상 프롬프트 키트 · Asle's Workroom
+
+영상: [AI 영상 모델, 싹 다 비교해봤습니다](https://www.youtube.com/watch?v=jgO1ThnRDV8)
 
 AI 영상 프롬프트를 복사해 보고, 직접 고치고, 시행착오 비용을 줄이기 위한 한국어 키트예요.
 

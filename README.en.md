@@ -1,5 +1,6 @@
-<!-- VIDEO_LINK -->
 # AI Video Prompt Kit · Asle's Workroom
+
+Video: [I compared 8 AI video models with the same prompt](https://www.youtube.com/watch?v=jgO1ThnRDV8) (Korean, English auto-dub)
 
 A guide, three copyable video prompts, and a prompt generator for learning scene direction and reducing iteration costs.
 
